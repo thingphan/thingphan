@@ -46,15 +46,23 @@ Advisor: Prof. Minsik Oh
 - Combine XGBoost quantile regression with mixed-integer linear programming to identify feasible vehicle replacements.
 - Submitted to a transportation data analysis competition co-organized by Hankyoreh.
 
+
 ## Publications & Presentations
 
-- **CMAgent: An LLM-Based Curation Agent for Cell Type–Marker Relationships in Single-Cell RNA-seq Annotation**  
-  KCC 2026 · Oral Presentation  
-  [Paper](https://github.com/thingphan/CMAgent-multi-agent/blob/main/docs/publications/KCC_2026_paper.pdf)
+### International Conferences
 
-- **CMAgent: A Multi-Agent System for Automated Cell Type–Marker Curation from Literature**  
-  GIW 2026 · Poster Accepted; Presentation Upcoming  
-  [Long Abstract](https://github.com/thingphan/CMAgent-multi-agent/blob/main/docs/publications/GIW_2026_long_abstract.pdf)
+**CMAgent: A Multi-Agent System for Automated Cell Type–Marker Curation from Literature**  
+*BIOINFO/GIW ISCB-Asia 2026 — International Conference on Genome Informatics*  
+**Poster Accepted · Presentation Upcoming (November 2026)**  
+[Long Abstract](https://github.com/thingphan/CMAgent-multi-agent/blob/main/docs/publications/GIW_2026_long_abstract.pdf)
+
+### Domestic Conferences
+
+**CMAgent: An LLM-Based Curation Agent for Cell Type–Marker Relationships in Single-Cell RNA-seq Annotation**  
+*Korea Computer Congress (KCC 2026)*  
+**Oral Presentation · June 2026**  
+[Paper](https://github.com/thingphan/CMAgent-multi-agent/blob/main/docs/publications/KCC_2026_paper.pdf)
+
 
 ## Awards
 
