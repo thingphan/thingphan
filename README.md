@@ -53,7 +53,8 @@ Advisor: Prof. Minsik Oh
 
 **CMAgent: A Multi-Agent System for Automated Cell Type–Marker Curation from Literature**  
 *BIOINFO/GIW ISCB-Asia 2026 — International Conference on Genome Informatics*  
-**Poster Accepted · Presentation Upcoming (November 2026)**  
+**Poster Presentation · November 2026**  
+[Poster](https://github.com/thingphan/CMAgent-multi-agent/blob/main/docs/publications/GIW_poster.pdf)
 [Long Abstract](https://github.com/thingphan/CMAgent-multi-agent/blob/main/docs/publications/GIW_2026_long_abstract.pdf)
 
 ### Domestic Conferences
