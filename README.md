@@ -4,7 +4,7 @@
 
 I'm a third-year Data Science student at Myongji University, interested in AI agents, agentic AI, and physical AI. I currently work on multi-agent systems for biomedical knowledge extraction, with a long-term goal of pursuing robotics research.
 
-[GitHub](https://github.com/thingphan) · [Email](mailto:kmg9883@mju.ac.kr) · [CV](mailto:kmg9883@mju.ac.kr) 
+[GitHub](https://github.com/thingphan) · [Email](mailto:kmg9883@mju.ac.kr) · [CV](https://github.com/thingphan/thingphan/blob/main/Myeongkwan_Kim_CV.pdf)
 
 ## Research Interests
 
